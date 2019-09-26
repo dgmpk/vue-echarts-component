@@ -119,3 +119,9 @@ export Vue.extend({
 })
 </script>
 ```
+
+## Demo
+[https://dgmpk.github.io/vue-echarts-component/](https://dgmpk.github.io/vue-echarts-component/)
+
+## License
+This content is released under the [MIT](http://opensource.org/licenses/MIT) License.
